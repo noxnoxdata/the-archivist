@@ -4,3 +4,6 @@
 # Python
 __pycache__/
 *.pyc
+
+# Generated manga panels (large)
+manga/chapter1/panels/*.png

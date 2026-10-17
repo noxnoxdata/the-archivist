@@ -1,0 +1,28 @@
+{
+  "panels": [
+    {"id": "p01a", "page": 1, "pos": "top", "seed": 1001, "prompt": "rain streaking down a dark window, faint silhouette of rooftops and a grey sea beyond, simple composition, no people"},
+    {"id": "p01b", "page": 1, "pos": "bottom", "seed": 1002, "prompt": "close-up of an old wooden archive door with paper screens, rain, a single lantern, simple composition"},
+    {"id": "p02a", "page": 2, "pos": "top", "seed": 1003, "prompt": "17-year-old Japanese girl, black hair tied back with a plain ribbon, grey eyes, navy work apron over cream sweater, taping a paper screen on a wooden veranda, typhoon rain, serious expression"},
+    {"id": "p02b", "page": 2, "pos": "bottom", "seed": 1004, "prompt": "close-up of a girl's ink-stained hands smoothing masking tape on a paper screen, rain beyond, no face"},
+    {"id": "p03a", "page": 3, "pos": "top", "seed": 1005, "prompt": "Japanese grandmother in her 70s, silver hair in a low bun, tea-coloured cardigan, sitting at a low table with a teapot and cups, warm dim archive, gentle knowing expression"},
+    {"id": "p03b", "page": 3, "pos": "bottom", "seed": 1006, "prompt": "close-up of dull old book spines on a wooden shelf, dim lantern light, simple composition, no people"},
+    {"id": "p04a", "page": 4, "pos": "top", "seed": 1007, "prompt": "rain streaking down a window, grey light, simple composition, no people"},
+    {"id": "p04b", "page": 4, "pos": "bottom", "seed": 1008, "prompt": "17-year-old Japanese boy, tall, black hair falling over one eye, brown eyes, faded blue coat over white shirt, barefoot, standing at a wooden gate in heavy rain, calm expression"},
+    {"id": "p05a", "page": 5, "pos": "top", "seed": 1009, "prompt": "wide shot from behind, boy in a faded blue coat turning toward a gate in the rain, his shadow on the wet path still facing the opposite direction, half a second behind, unsettling"},
+    {"id": "p05b", "page": 5, "pos": "bottom", "seed": 1010, "prompt": "extreme close-up of a 17-year-old Japanese girl's grey eyes, wide with unease, black hair, rain light"},
+    {"id": "p06a", "page": 6, "pos": "top", "seed": 1011, "prompt": "17-year-old Japanese girl, black hair tied back, navy apron, holding open a wooden door, rain behind her, wary expression"},
+    {"id": "p06b", "page": 6, "pos": "bottom", "seed": 1012, "prompt": "close-up of bare feet on a wet stone path in rain, faded blue coat hem above, no face"},
+    {"id": "p07a", "page": 7, "pos": "top", "seed": 1013, "prompt": "interior of a dim Japanese archive, two teenagers and an old woman sitting at a low table with tea, shelves of books to the rafters, lantern light"},
+    {"id": "p07b", "page": 7, "pos": "bottom", "seed": 1014, "prompt": "close-up of a 17-year-old boy, black hair over one eye, brown eyes, holding a teacup with both hands, faded blue coat, calm expression"},
+    {"id": "p08a", "page": 8, "pos": "top", "seed": 1015, "prompt": "17-year-old Japanese boy, black hair over one eye, brown eyes, faded blue coat, sitting by a rain-streaked window in a dim archive, calm searching expression"},
+    {"id": "p08b", "page": 8, "pos": "bottom", "seed": 1016, "prompt": "17-year-old Japanese girl, black hair tied back, grey eyes, leaning forward across a low table, curious serious expression"},
+    {"id": "p09a", "page": 9, "pos": "top", "seed": 1017, "prompt": "boy with black hair and a faded blue coat standing at a rain-streaked window, his faint reflection slightly behind him, eerie calm"},
+    {"id": "p09b", "page": 9, "pos": "bottom", "seed": 1018, "prompt": "old Japanese woman, silver bun, tea-coloured cardigan, standing at a tall wooden shelf of old books, hand on the spines, knowing expression"},
+    {"id": "p10a", "page": 10, "pos": "top", "seed": 1019, "prompt": "old woman's hands unwrapping a small cloth bundle on a low wooden table, a small blank book inside, warm lantern light"},
+    {"id": "p10b", "page": 10, "pos": "bottom", "seed": 1020, "prompt": "close-up of a small blank book with an unmarked cover on a wooden table, warm lantern light, faint warmth"},
+    {"id": "p11a", "page": 11, "pos": "top", "seed": 1021, "prompt": "a book with pages made of water falling from a high shelf, ripples in the air, surreal, dim archive"},
+    {"id": "p11b", "page": 11, "pos": "bottom", "seed": 1022, "prompt": "boy in a faded blue coat catching a book of water, water running over his hands and wrists, calm determined expression"},
+    {"id": "p12a", "page": 12, "pos": "top", "seed": 1023, "prompt": "close-up of dull old book spines on a wooden shelf, absolute stillness, dim lantern light, simple composition, no people"},
+    {"id": "p12b", "page": 12, "pos": "bottom", "seed": 1024, "prompt": "boy in a faded blue coat bowing his head in a dim archive, his shadow on the tatami perfectly still and unmoved, eerie"}
+  ]
+}
