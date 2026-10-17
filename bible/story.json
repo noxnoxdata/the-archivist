@@ -1,0 +1,101 @@
+{
+  "title": "The Archive of Quiet Things",
+  "part": "Part 1: The Boy Without a Book",
+  "format": "Serialized fiction, manga-ready",
+  "rating": "PG-13",
+  "language": "English with light Japanese terms",
+  "north_star": {
+    "premise": "In a seaside town, a girl who can hear the memories inside old books meets a boy with no memory and no book of his own. Part 1 is about the week she tries to find his story before the archive loses it forever.",
+    "themes": ["memory", "being remembered", "choosing to stay", "the quiet cost of forgetting"],
+    "tone": "Quiet, warm, slightly melancholy, hopeful. Rain, salt, old paper, small gestures.",
+    "ending": "Ren chooses to stay for now. Hina learns she is allowed to be remembered too. A black book with her name opens the larger mystery for Part 2.",
+    "must_not": [
+      "graphic violence",
+      "explicit sexual content",
+      "villainizing Ren",
+      "resolving the black book in Part 1",
+      "killing the grandmother",
+      "revealing the full nature of the archive in Part 1"
+    ]
+  },
+  "world_rules": [
+    "The archive, called the Kura, is a converted storehouse by the sea.",
+    "Every person who visits leaves a memory in the archive. The memory takes the shape of a book.",
+    "Hina can hear the echo of a memory when she touches an old book.",
+    "A forgotten memory goes quiet. Quiet books are kept on the north shelf and must be read gently.",
+    "The archive does not invent memories. It only keeps what was already lived.",
+    "The sea is not a villain. It is a keeper too, and sometimes it takes things back."
+  ],
+  "canon_fanon_au": {
+    "canon": "Original story. Everything here is canon to this series.",
+    "fanon": "None. This is not fanfiction.",
+    "au": "A fictional Japanese seaside town called Umiura. Real places are not depicted."
+  },
+  "characters": [
+    {
+      "id": "hina",
+      "name": "Hina Aizawa",
+      "age": "17",
+      "role": "Protagonist",
+      "attributes": {"eyes": "grey", "hair": "black", "height": "average"},
+      "voice": "Dry, practical, kind underneath. Short sentences when she is scared. Notices small physical details before feelings.",
+      "want": "To keep the archive running and to be useful enough that no one notices she is lonely.",
+      "fear": "That she is easy to forget.",
+      "arc_part1": "From hiding behind the work to allowing one person to see her.",
+      "visual": "Black hair tied back with a plain ribbon, grey eyes, a faded navy work apron over a cream sweater, ink on her fingers."
+    },
+    {
+      "id": "ren",
+      "name": "Ren",
+      "age": "17 (appears)",
+      "role": "Mystery, love interest",
+      "attributes": {"eyes": "brown", "hair": "black", "height": "tall"},
+      "voice": "Quiet, careful, unexpectedly funny. Asks precise questions. Says thank you too often.",
+      "want": "To remember who he is.",
+      "fear": "That he is a story someone is trying to forget.",
+      "arc_part1": "From a blank page to a person who chooses to stay, even without the whole story.",
+      "visual": "A faded blue coat too warm for the season, black hair falling over one eye, a shadow that lags half a second behind him."
+    },
+    {
+      "id": "obaasan",
+      "name": "Obaasan",
+      "age": "70s",
+      "role": "The archive keeper, Hina's grandmother",
+      "attributes": {"eyes": "brown", "hair": "silver", "height": "small"},
+      "voice": "Soft, indirect, fond of questions that are not questions.",
+      "want": "To prepare Hina for something she will not name yet.",
+      "fear": "That she has waited too long to tell her.",
+      "arc_part1": "Mostly offstage. She knows more than she says.",
+      "visual": "Silver hair in a low bun, a cardigan the colour of tea, hands always busy with paper."
+    }
+  ],
+  "relationships": [
+    {"a": "hina", "b": "ren", "dynamic": "Strangers to tentative trust. Slow burn, no confession in Part 1.", "state": "just met"},
+    {"a": "hina", "b": "obaasan", "dynamic": "Warm but guarded. Hina does not ask the questions she wants to ask.", "state": "steady"},
+    {"a": "ren", "b": "the_archive", "dynamic": "The archive does not know what to do with him. He has no book.", "state": "unresolved"}
+  ],
+  "timeline": [
+    {"day": 1, "event": "A typhoon approaches Umiura. Ren appears at the Kura in the rain with no memory.", "chapter": 1},
+    {"day": 2, "event": "Hina searches for Ren's book and finds a blank one. A quiet book falls. They catch a drowned memory.", "chapter": 2},
+    {"day": 3, "event": "The storm peaks. They save the quiet books. Ren remembers a fragment. A black book arrives with Hina's name.", "chapter": 3}
+  ],
+  "threads": [
+    {"id": "T1", "name": "Ren's missing memory and missing book", "status": "open", "planted": "chapter 1", "note": "Part 2 pays this off."},
+    {"id": "T2", "name": "The black book with Hina's name", "status": "open", "planted": "chapter 3", "note": "The series hook."},
+    {"id": "T3", "name": "Hina's own blank book and her fear of being forgotten", "status": "open", "planted": "chapter 2", "note": "Her arc across the series."},
+    {"id": "T4", "name": "The drowned memory and the promise on the beach", "status": "resolved", "planted": "chapter 2", "note": "Resolved in chapter 3."},
+    {"id": "T5", "name": "What Obaasan is not telling Hina", "status": "open", "planted": "chapter 1", "note": "Part 2 and beyond."}
+  ],
+  "chapters": [
+    {"number": 1, "title": "The Boy in the Rain", "status": "written", "summary": "Hina closes the archive before the typhoon. A boy in a faded blue coat arrives with no memory and no name. He says 'Ren' like a guess. His shadow lags half a second behind him. The archive goes quiet around him."},
+    {"number": 2, "title": "The Blank Book", "status": "written", "summary": "Hina looks for Ren's book and finds a blank one, warm to the touch. A quiet book falls from the north shelf. They catch a drowned memory of a child on a beach and a promise. Obaasan says some books are blank because someone is still writing them."},
+    {"number": 3, "title": "What the Tide Keeps", "status": "written", "summary": "The storm floods the archive. Hina and Ren save the quiet books. Ren remembers a voice saying 'Don't forget me.' He chooses to stay. In the morning, a black book is on the desk with Hina's name inside."}
+  ],
+  "glossary": [
+    {"term": "Kura", "meaning": "storehouse, used here for the family archive"},
+    {"term": "Obaasan", "meaning": "grandmother"},
+    {"term": "Engawa", "meaning": "the wooden veranda around a traditional house"},
+    {"term": "Shouji", "meaning": "paper sliding screens"},
+    {"term": "Tatami", "meaning": "woven straw floor mats"}
+  ]
+}
