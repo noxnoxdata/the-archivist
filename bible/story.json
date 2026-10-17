@@ -19,7 +19,7 @@
     ]
   },
   "world_rules": [
-    "The archive, called the Kura, is a converted storehouse by the sea.",
+    "The archive is a converted storehouse by the sea.",
     "Every person who visits leaves a memory in the archive. The memory takes the shape of a book.",
     "Hina can hear the echo of a memory when she touches an old book.",
     "A forgotten memory goes quiet. Quiet books are kept on the north shelf and must be read gently.",
@@ -75,7 +75,7 @@
     {"a": "ren", "b": "the_archive", "dynamic": "The archive does not know what to do with him. He has no book.", "state": "unresolved"}
   ],
   "timeline": [
-    {"day": 1, "event": "A typhoon approaches Umiura. Ren appears at the Kura in the rain with no memory.", "chapter": 1},
+    {"day": 1, "event": "A typhoon approaches Umiura. Ren appears at the archive in the rain with no memory.", "chapter": 1},
     {"day": 2, "event": "Hina searches for Ren's book and finds a blank one. A quiet book falls. They catch a drowned memory.", "chapter": 2},
     {"day": 3, "event": "The storm peaks. They save the quiet books. Ren remembers a fragment. A black book arrives with Hina's name.", "chapter": 3}
   ],
@@ -92,7 +92,6 @@
     {"number": 3, "title": "What the Tide Keeps", "status": "written", "summary": "The storm floods the archive. Hina and Ren save the quiet books. Ren remembers a voice saying 'Don't forget me.' He chooses to stay. In the morning, a black book is on the desk with Hina's name inside."}
   ],
   "glossary": [
-    {"term": "Kura", "meaning": "storehouse, used here for the family archive"},
     {"term": "Obaasan", "meaning": "grandmother"},
     {"term": "Engawa", "meaning": "the wooden veranda around a traditional house"},
     {"term": "Shouji", "meaning": "paper sliding screens"},

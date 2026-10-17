@@ -75,10 +75,10 @@ def main() -> None:
     page.paste(top, (M, 220))
     draw.rectangle((M, 220, W - M, 820), outline=INK, width=5)
     draw_caption(draw, (M + 24, 244, 620),
-                 "The typhoon was still three hours away when the first shutters began to rattle.",
+                 "Three hours before the typhoon. The archive was not ready.",
                  font(FONT_BODY, 22))
     speech_bubble(draw, 650, 244, 470,
-                  "The quiet books are going to get soaked.",
+                  "Obaasan! The north window won't latch!",
                   font(FONT_DIALOGUE, 25), (520, 470))
 
     # Panel 2: Obaasan
@@ -87,8 +87,11 @@ def main() -> None:
     draw.rectangle((M, 880, W - M, 1480), outline=INK, width=5)
 
     speech_bubble(draw, 82, 908, 540,
-                  "Leave the north window. The quiet books like the sound.",
+                  "Leave it. The quiet ones like the rain.",
                   font(FONT_DIALOGUE, 25), (720, 1120))
+    draw_caption(draw, (82, 1290, 560),
+                 "Every memory becomes a book. The forgotten ones go quiet.",
+                 font(FONT_BODY, 20))
 
     # Footer
     draw.line((M, 1570, W - M, 1570), fill=INK, width=2)

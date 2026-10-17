@@ -32,7 +32,7 @@ In a seaside town, a girl who can hear the memories inside old books meets a boy
 - Visual: Silver hair in a low bun, a cardigan the colour of tea, hands always busy with paper.
 
 ## World rules
-- The archive, called the Kura, is a converted storehouse by the sea.
+- The archive is a converted storehouse by the sea.
 - Every person who visits leaves a memory in the archive. The memory takes the shape of a book.
 - Hina can hear the echo of a memory when she touches an old book.
 - A forgotten memory goes quiet. Quiet books are kept on the north shelf and must be read gently.
@@ -40,7 +40,7 @@ In a seaside town, a girl who can hear the memories inside old books meets a boy
 - The sea is not a villain. It is a keeper too, and sometimes it takes things back.
 
 ## Timeline
-- Day 1: A typhoon approaches Umiura. Ren appears at the Kura in the rain with no memory. (Ch 1)
+- Day 1: A typhoon approaches Umiura. Ren appears at the archive in the rain with no memory. (Ch 1)
 - Day 2: Hina searches for Ren's book and finds a blank one. A quiet book falls. They catch a drowned memory. (Ch 2)
 - Day 3: The storm peaks. They save the quiet books. Ren remembers a fragment. A black book arrives with Hina's name. (Ch 3)
 
@@ -62,7 +62,6 @@ The storm floods the archive. Hina and Ren save the quiet books. Ren remembers a
 - T5 What Obaasan is not telling Hina [open] Part 2 and beyond.
 
 ## Glossary
-- **Kura**: storehouse, used here for the family archive
 - **Obaasan**: grandmother
 - **Engawa**: the wooden veranda around a traditional house
 - **Shouji**: paper sliding screens

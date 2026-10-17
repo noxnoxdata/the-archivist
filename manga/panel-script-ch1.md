@@ -12,7 +12,7 @@
 - Narration box: "The typhoon was still three hours away when the first shutters began to rattle."
 
 **Panel 2 (medium, right)**
-- The Kura from the path. Cedar walls, paper screens, a low stone step. Rain starting.
+- The archive from the path. Cedar walls, paper screens, a low stone step. Rain starting.
 - SFX: ぽつ ぽつ (first drops).
 
 **Panel 3 (medium, left)**
@@ -28,8 +28,9 @@
 
 **Panel 1 (wide, top)**
 - Interior. Obaasan at the back table with tea and unnecessary glasses. Warm lamplight against the grey outside.
-- Obaasan: "Leave the north window. The quiet books like the sound."
-- Hina (off-panel): "The quiet books are going to get soaked."
+- Obaasan: "Leave the north window. The quiet ones like the sound."
+- Hina (off-panel): "They're going to get soaked."
+- Narration box: "Every memory becomes a book. The forgotten ones go quiet."
 
 **Panel 2 (medium, right)**
 - Obaasan, eyes on her tea, a small smile.
@@ -55,7 +56,7 @@
 - Hina under the eaves, arms crossed, watching the water. Small against the storm.
 
 **Panel 3 (large, left, bottom)**
-- The boy at the gate. No umbrella, no bag. Faded blue coat open over a white shirt. Black hair plastered down. Barefoot. He is looking at the Kura like a house from a dream.
+- The boy at the gate. No umbrella, no bag. Faded blue coat open over a white shirt. Black hair plastered down. Barefoot. He is looking at the archive like a house from a dream.
 - Narration box: "That was when she saw the boy."
 
 ---
@@ -141,8 +142,8 @@
 - Ren bows his head. "Thank you."
 
 **Panel 3 (large, left, the hook)**
-- The same shot, held. Ren is still bowing. His shadow on the tatami has not moved at all. Around him, the quiet books have gone silent. No hum lines. Nothing.
-- Narration box: "On the north shelf, one by one, the quiet books stopped humming."
+- The same shot, held. Ren is still bowing. His shadow on the tatami has not moved at all. Around him, the quiet ones have gone silent. No hum lines. Nothing.
+- Narration box: "On the north shelf, one by one, the quiet ones stopped humming."
 
 **Panel 4 (small, bottom, final)**
 - Extreme close-up: Hina's hand, still holding the tape. Her fingers have gone white.

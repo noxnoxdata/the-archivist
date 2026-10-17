@@ -12,15 +12,15 @@ The typhoon was still three hours away when the first shutters began to rattle.
 
 Hina stood on the engawa with a roll of masking tape in her teeth, pinning the last of the paper screens. The wind came off the sea in long, flat sheets, carrying salt and the smell of wet rope. Below the house, the town had gone quiet. Fishing boats pulled up onto the breakwater. A vending machine glowed alone at the corner, its light flickering every time the wind leaned on it.
 
-"Leave the north window," Obaasan called from inside. "The quiet books like the sound."
+"Leave the north window," Obaasan called from inside. "They like the sound."
 
-"The quiet books are going to get soaked."
+"They're going to get soaked."
 
 "They have waited longer than you, Hina."
 
 Hina taped the window anyway. Then she taped it again, because the first strip had bubbled.
 
-The Kura was an old storehouse her family had turned into an archive. Three rooms, a low ceiling, and shelves that climbed to the rafters. Every visitor left a memory behind, and every memory became a book. Most of them were thin. Some were the size of a fist. A few were heavy enough that Hina needed both arms. She had grown up between them, learning the smells: paper, cedar, dust, the faint sweetness of old glue.
+The archive was an old storehouse her family had kept for generations. Three rooms, a low ceiling, and shelves that climbed to the rafters. Every visitor left a memory behind, and every memory became a book. Most of them were thin. Some were the size of a fist. A few were heavy enough that Hina needed both arms. She had grown up between them, learning the smells: paper, cedar, dust, the faint sweetness of old glue. Some memories went quiet over time. Obaasan kept those books on the north shelf and called them the quiet ones.
 
 She could hear them if she touched them. Not words. More like weather. A book could smell of someone's kitchen, or feel like a hand on the back of her neck, or hum with a song she had never learned. Obaasan called it reading with your hands. Hina called it the reason she never got enough sleep.
 
@@ -30,7 +30,7 @@ It did not fall so much as arrive, all at once, like a curtain dropped on a stag
 
 That was when she saw the boy.
 
-He was standing at the gate. No umbrella. No bag. A faded blue coat, too warm for the season, hanging open over a white shirt. Black hair plastered to his forehead. He was not running for cover. He was looking at the Kura the way people looked at a house they had seen in a dream.
+He was standing at the gate. No umbrella. No bag. A faded blue coat, too warm for the season, hanging open over a white shirt. Black hair plastered to his forehead. He was not running for cover. He was looking at the archive the way people looked at a house they had seen in a dream.
 
 Hina opened her mouth to tell him to come inside. The wind took the words.
 
@@ -92,7 +92,7 @@ Hina waited for Obaasan to laugh, or to call someone, or to do any of the things
 
 The boy, Ren, bowed his head. "Thank you."
 
-Outside, the wind changed. The shutters groaned. And on the north shelf, one by one, the quiet books stopped humming.
+Outside, the wind changed. The shutters groaned. And on the north shelf, one by one, the quiet ones stopped humming.
 
 Hina noticed. She noticed the way the room had gone still, the way the air had thickened, the way every book in the archive seemed to be listening.
 
@@ -126,7 +126,7 @@ They started in the east room. Hina pulled the ledgers and read the names aloud,
 
 "Nothing," Ren agreed. He did not sound disappointed. He sounded like someone who had expected exactly this.
 
-Hina sat back on her heels. "When you came in, the quiet books stopped. They never do that. They hum when strangers are near. They've never gone silent." She looked at him. "What are you?"
+Hina sat back on her heels. "When you came in, the quiet ones stopped. They never do that. They hum when strangers are near. They've never gone silent." She looked at him. "What are you?"
 
 "I don't know," he said. "I'm sorry."
 
@@ -198,7 +198,7 @@ The storm came back at midnight, angrier than before.
 
 Hina woke to water on the floor. The sea had climbed the hill. Not much, not yet, but enough to slip under the door and spread across the tatami like a second skin. The archive was dark. The books were not humming. They were whispering.
 
-She ran downstairs barefoot. Obaasan was already in the north room, lifting the quiet books two at a time and setting them on the high shelves. Her cardigan was soaked to the elbows.
+She ran downstairs barefoot. Obaasan was already in the north room, lifting the quiet ones two at a time and setting them on the high shelves. Her cardigan was soaked to the elbows.
 
 "Bring the lantern," she said. "And wake the boy."
 
@@ -212,7 +212,7 @@ Ren was already there. He stood in the doorway in his blue coat, barefoot, his h
 
 There was no time to ask. The water was rising. Hina grabbed an armful of books and climbed the ladder to the top shelf. Ren did the same. They worked without speaking. The rain hammered the roof. The sea pushed at the walls. Every few minutes a book slipped and one of them caught it.
 
-By three in the morning, the north shelf was empty and the quiet books were safe in the loft. Hina sat on the top rung of the ladder, shaking. Ren sat beside her, close enough that their shoulders touched.
+By three in the morning, the north shelf was empty and the quiet ones were safe in the loft. Hina sat on the top rung of the ladder, shaking. Ren sat beside her, close enough that their shoulders touched.
 
 "Your hands are bleeding," he said.
 
@@ -250,7 +250,7 @@ They did not say anything else. They sat on the ladder until the water stopped r
 
 Obaasan made tea. They drank it on the engawa, wrapped in blankets, watching the sea smooth itself out. The town was a mess of branches and paper. A fishing boat had come loose and was resting against the breakwater like a tired animal.
 
-Hina went back inside to check the shelves. The water had gone. The floor was dry, or almost. The quiet books were safe. The archive smelled of salt and cedar and something else, something older.
+Hina went back inside to check the shelves. The water had gone. The floor was dry, or almost. The quiet ones were safe. The archive smelled of salt and cedar and something else, something older.
 
 On the desk, where no one had been sitting, was a book.
 
@@ -278,7 +278,6 @@ You are late.
 
 ## Glossary
 
-- **Kura:** a storehouse, used here for the family archive.
 - **Obaasan:** grandmother.
 - **Engawa:** the wooden veranda around a traditional house.
 - **Shouji:** paper sliding screens.

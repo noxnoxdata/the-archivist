@@ -44,7 +44,7 @@ Japanese grandmother in her 70s, 150 cm, small and rounded, silver hair in a low
 
 ## Key panel prompts
 
-### Panel: the Kura in the rain
+### Panel: the archive in the rain
 
 ```
 wide establishing shot, old Japanese cedar storehouse converted into an archive, wooden engawa, paper shouji screens, low stone step, heavy typhoon rain, grey sea in the distance, fishing boats on a breakwater, single vending machine glow, monochrome manga, screentone rain, quiet melancholy, no people
@@ -68,7 +68,7 @@ wide shot from behind, boy turned toward a gate in the rain, his shadow on the w
 interior, warm dim archive, low wooden table, tatami, two teenagers and an old woman with tea, shelves of old books to the rafters, single lantern light, rain on paper screens, monochrome manga, screentone, intimate quiet composition
 ```
 
-### Panel: the quiet books go silent
+### Panel: the quiet ones go silent
 
 ```
 close-up of a hand hovering over rows of dull old books on a wooden shelf, faint dust motes in lantern light, no hum lines, absolute stillness, monochrome manga, screentone, quiet tension

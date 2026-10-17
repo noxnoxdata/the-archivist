@@ -75,11 +75,11 @@
 
 ---
 
-## The Kura (the archive)
+## The archive (the old storehouse)
 
 - A converted cedar storehouse by the sea. Three rooms, low ceiling, shelves to the rafters.
 - Wooden engawa, paper shouji, tatami, a single bare bulb and lanterns.
-- The north shelf holds the quiet books. The south shelf holds the drowned memories.
+- The north shelf holds the quiet ones. The south shelf holds the drowned memories.
 - Visual motifs: dust motes in lantern light, rain on the engawa, the sea through a window, stacks of paper, a ledger open on the desk.
 - The archive should feel like a character: warm, old, listening.
 
